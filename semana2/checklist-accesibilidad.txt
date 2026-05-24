@@ -1,35 +1,35 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Joel Joel Doria Atencia
+Fecha:24 de mayo de 2026
+Nombre de la rama: joel_doria
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta: Sí. El título "¡Tu voz cuenta! Participa" indica directamente el propósito del formulario.
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta: Sí. El párrafo de presentación explica que la información se utilizará únicamente con fines de participación y organización comunitaria.
 
 3. ¿Cada campo tiene un label o etiqueta visible?
-Respuesta:
+Respuesta: Sí. Cada campo del formulario tiene su etiqueta visible encima, correctamente vinculada al atributo for.
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta: Sí. Las instrucciones y etiquetas están escritas en lenguaje claro, sin tecnicismos, para que cualquier persona pueda entenderlas.
 
 5. ¿El formulario evita pedir datos innecesarios?
-Respuesta:
+Respuesta: Sí. Solo se piden el nombre, el barrio, la propuesta y el contacto (opcional). No se solicita información sensible ni innecesaria.
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
-Respuesta:
+Respuesta: Sí. El campo de texto "Tu propuesta o mensaje para la comunidad" es amplio y cuenta con un placeholder orientador.
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:
+Respuesta: Sí. Hay una casilla de verificación en la que el usuario acepta el uso de su información antes de enviar.
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta: Sí. El botón dice "Enviar mi participación", lo cual describe exactamente la acción que realiza.
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:
+Respuesta: Sí. Se usaron colores con buen contraste, una fuente legible, un espaciado adecuado entre campos y un diseño limpio.
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
-Respuesta:
+Respuesta: Agregaría la opción de cambiar el idioma para comunidades con lenguas nativas, y también incluiría una versión con texto más grande para personas mayores o con dificultades visuales.
